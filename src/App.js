@@ -28,7 +28,7 @@ const destinations = [
       "The Pink City, famous for its magnificent forts, palaces, colorful markets, and rich heritage.",
     rating: 4.7,
     category: "Heritage",
-    image: "/places/Jaipur.png",
+    image: "/places/Jaipur.jpeg",
   },
   {
     id: 4,
@@ -58,7 +58,7 @@ const destinations = [
       "A historic city home to the iconic Taj Mahal and several remarkable Mughal-era monuments.",
     rating: 4.6,
     category: "Heritage",
-    image: "/places/Agra.jpeg",
+    image: "/places/Agra.jpg",
   },
   {
     id: 7,
@@ -68,7 +68,7 @@ const destinations = [
       "The City of Light, celebrated for the Eiffel Tower, art, architecture, fashion, and cuisine.",
     rating: 4.9,
     category: "City",
-    image: "/places/Paris.jpeg",
+    image: "/places/Paris.jpg",
   },
   {
     id: 8,
@@ -78,7 +78,7 @@ const destinations = [
       "A fascinating blend of futuristic technology, traditional culture, incredible food, and city life.",
     rating: 4.9,
     category: "City",
-    image: "/places/Tokyo.jpeg",
+    image: "/places/Tokyo.jpg",
   },
   {
     id: 9,
@@ -88,7 +88,7 @@ const destinations = [
       "A vibrant global city famous for Times Square, Central Park, skyscrapers, museums, and diverse culture.",
     rating: 4.8,
     category: "City",
-    image: "/places/Newyork.jpeg",
+    image: "/places/Newyork.jpg",
   },
   {
     id: 10,
