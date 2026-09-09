@@ -1,3 +1,53 @@
+# 🌍 Wanderlust
+
+Wanderlust is a React-based travel discovery website that helps users explore beautiful destinations around the world through a clean and interactive interface.
+
+## ✨ Features
+
+- 🌍 Explore popular travel destinations
+- 🔎 Search destinations instantly
+- 🖼️ Destination cards with images, descriptions, ratings, and categories
+- 📱 Responsive and user-friendly design
+- 🧭 Smooth navigation between sections
+- ⚡ Built with React
+
+## 🗺️ Destinations
+
+The app currently features destinations including:
+
+- Ooty
+- Goa
+- Jaipur
+- Manali
+- Munnar
+- Agra
+- Paris
+- Tokyo
+- New York
+- Bali
+- Dubai
+- Great Wall of China
+
+## 🛠️ Built With
+
+- React
+- JavaScript
+- HTML
+- CSS
+
+## 📚 React Concepts Used
+
+This project uses:
+
+- JSX
+- Components
+- Props
+- `useState`
+- Array `.map()`
+- Array `.filter()`
+- Event handling
+- Conditional rendering
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
